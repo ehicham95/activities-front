@@ -23,5 +23,8 @@
   "include": [
     "src",
     "./typings-custom/**/*.ts"
-  ]
+  ],
+  "engines": {
+    "node": "12-lts"
+  }
 }
